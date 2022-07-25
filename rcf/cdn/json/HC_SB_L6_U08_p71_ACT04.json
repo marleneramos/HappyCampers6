@@ -1,0 +1,61 @@
+{
+  "id": "acff7144babf45f1b2b7274bacc34e11",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "bag tag"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "hand luggage"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "airline"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "ticket"
+    },
+    {
+      "elm": "typein_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "check-in"
+    },
+    {
+      "elm": "typein_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "window seat"
+    },
+    {
+      "elm": "typein_7",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "boarding pass"
+    },
+    {
+      "elm": "typein_8",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "suitcase"
+    }
+  ]
+}

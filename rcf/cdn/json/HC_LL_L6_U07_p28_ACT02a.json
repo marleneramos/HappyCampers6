@@ -1,0 +1,19 @@
+{
+  "id": "ae654c3bd899468a8511569e31b677ec",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Because it was a bright and sunny day"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Because it was chilly and windy"
+    }
+  ]
+}

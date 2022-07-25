@@ -1,0 +1,43 @@
+{
+  "id": "6a5adec562cc402bb0a1ae769a97e1cd",
+  "answers": [
+    {
+      "elm": "crossword_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "crossword_word_1",
+          "type": "simple",
+          "value": "SEATBELT"
+        },
+        {
+          "elm": "crossword_word_2",
+          "type": "simple",
+          "value": "GATE"
+        },
+        {
+          "elm": "crossword_word_3",
+          "type": "simple",
+          "value": "EMERGENCY"
+        },
+        {
+          "elm": "crossword_word_4",
+          "type": "simple",
+          "value": "ATTENDANT"
+        },
+        {
+          "elm": "crossword_word_5",
+          "type": "simple",
+          "value": "FLIGHT"
+        },
+        {
+          "elm": "crossword_word_6",
+          "type": "simple",
+          "value": "AISLE"
+        }
+      ]
+    }
+  ]
+}

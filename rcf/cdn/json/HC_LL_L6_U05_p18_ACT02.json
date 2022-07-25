@@ -1,0 +1,33 @@
+{
+  "id": "fd09955f32b74054908e056c9e7a58ab",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "The highest"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "The largest"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "The coldest"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "The nearest"
+    }
+  ]
+}

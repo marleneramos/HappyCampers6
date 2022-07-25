@@ -1,0 +1,33 @@
+{
+  "id": "29be6419ed2d4a4494d97bddd50bf443",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is it the best pizza"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is Sue the most thoughtful person"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is Mom the most careful person"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is Charlie the most generous friend"
+    }
+  ]
+}

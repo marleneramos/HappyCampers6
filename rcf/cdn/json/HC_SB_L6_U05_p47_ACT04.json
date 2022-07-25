@@ -1,0 +1,47 @@
+{
+  "id": "4072cbe8b74244ab924b3dc594e16956",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "telescope"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "comet"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "planet"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "meteor"
+    },
+    {
+      "elm": "typein_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Earth"
+    },
+    {
+      "elm": "typein_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "astronomer"
+    }
+  ]
+}

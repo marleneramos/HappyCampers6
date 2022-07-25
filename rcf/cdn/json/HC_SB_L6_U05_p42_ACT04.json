@@ -1,0 +1,33 @@
+{
+  "id": "75de3bb4ecdb49b8b13d2b39c2bf3fae",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "It's his telescope"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "There is a big crater on the moon"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Comets and meteors fly in space"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I want to be an astronomer"
+    }
+  ]
+}

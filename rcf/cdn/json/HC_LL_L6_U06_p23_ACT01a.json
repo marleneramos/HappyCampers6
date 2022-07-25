@@ -1,0 +1,19 @@
+{
+  "id": "ad0768a5de2545c88497ab30222389cc",
+  "answers": [
+    {
+      "elm": "wordsearch_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "CAREFUL",
+        "BEST",
+        "WORST",
+        "PEACEFUL",
+        "GENEROUS",
+        "THOUGHTFUL"
+      ]
+    }
+  ]
+}

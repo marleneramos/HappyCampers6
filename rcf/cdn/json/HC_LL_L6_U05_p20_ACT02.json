@@ -1,0 +1,54 @@
+{
+  "id": "d3dab869f67549f983c5b79ecc8c32b3",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Which is the hottest planet"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is the Amazon the longest river"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Which is the highest mountain"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is Mercury the smallest planet"
+    },
+    {
+      "elm": "typein_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Which is the coldest place"
+    },
+    {
+      "elm": "typein_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Which is the biggest country"
+    },
+    {
+      "elm": "typein_7",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is an elephant the largest land animal"
+    }
+  ]
+}

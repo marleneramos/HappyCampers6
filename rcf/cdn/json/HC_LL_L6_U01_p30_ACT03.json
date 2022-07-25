@@ -1,0 +1,26 @@
+{
+  "id": "2a31f2bceffe4559abede6e64568dca7",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'll buy"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'll help"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'll give"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4183eb37f5e748079e831a8df3f666f2",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Where's the makeup artist"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "The director says, \"Positions, please,\"\"Action,\"and \"Cut\""
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "The sound engineer has a microphone"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "She is his personal assistant"
+    }
+  ]
+}

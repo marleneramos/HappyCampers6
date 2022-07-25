@@ -1,0 +1,33 @@
+{
+  "id": "a61198c0507c4d7f90aaa937c165e0fe",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "There were trapeze artists"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "There was a tightrope walker"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "There was a ringmaster"
+    },
+    {
+      "elm": "typein_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "There were clowns"
+    }
+  ]
+}

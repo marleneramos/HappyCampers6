@@ -1,0 +1,61 @@
+{
+  "id": "368358f2339041e8b57f1b02e9da69b0",
+  "answers": [
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "is it a perfect day to fly a kite"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Because it's windy and bright"
+    },
+    {
+      "elm": "typein_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Why is she wearing a raincoat"
+    },
+    {
+      "elm": "typein_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Because it's wet outside"
+    },
+    {
+      "elm": "typein_7",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Why is he wearing a scarf and gloves"
+    },
+    {
+      "elm": "typein_8",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Because it's very cold"
+    },
+    {
+      "elm": "typein_9",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Why is she going to the beach"
+    },
+    {
+      "elm": "typein_10",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Because it's always warm there"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e3dfefc866954835b2f8e76635277269",
+  "answers": [
+    {
+      "elm": "crossword_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "crossword_word_1",
+          "type": "simple",
+          "value": "DRESS"
+        },
+        {
+          "elm": "crossword_word_2",
+          "type": "simple",
+          "value": "LEGGINGS"
+        },
+        {
+          "elm": "crossword_word_3",
+          "type": "simple",
+          "value": "SWEATPANTS"
+        },
+        {
+          "elm": "crossword_word_4",
+          "type": "simple",
+          "value": "CARDIGAN"
+        },
+        {
+          "elm": "crossword_word_5",
+          "type": "simple",
+          "value": "SWEATSHIRT"
+        },
+        {
+          "elm": "crossword_word_6",
+          "type": "simple",
+          "value": "VEST"
+        },
+        {
+          "elm": "crossword_word_7",
+          "type": "simple",
+          "value": "TIGHTS"
+        }
+      ]
+    }
+  ]
+}

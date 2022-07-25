@@ -1,0 +1,19 @@
+{
+  "id": "45492680df634eab902dc1579706cce9",
+  "answers": [
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Because he wanted to get the kite"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Because the branch wasn't strong"
+    }
+  ]
+}

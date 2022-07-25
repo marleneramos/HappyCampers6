@@ -1,0 +1,26 @@
+{
+  "id": "6eec7f2a9e4d4ea78d0c7f3b82327ea3",
+  "answers": [
+    {
+      "elm": "radio_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "item_2"
+    },
+    {
+      "elm": "radio_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "item_1"
+    },
+    {
+      "elm": "radio_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "item_2"
+    }
+  ]
+}

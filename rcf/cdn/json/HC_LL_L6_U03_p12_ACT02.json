@@ -1,0 +1,57 @@
+{
+  "id": "cfdc31c1466e4046b5aca4f7bda2333c",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Did",
+        "they",
+        "watch",
+        "the",
+        "movie"
+      ]
+    },
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Did",
+        "she",
+        "walk",
+        "to",
+        "school"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Did",
+        "we",
+        "bring",
+        "an",
+        "umbrella"
+      ]
+    },
+    {
+      "elm": "ordering_4",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Did",
+        "he",
+        "waste",
+        "his",
+        "time"
+      ]
+    }
+  ]
+}

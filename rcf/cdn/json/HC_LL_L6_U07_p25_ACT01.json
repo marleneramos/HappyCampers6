@@ -1,0 +1,53 @@
+{
+  "id": "248af9d2a3ac4fbf8b06ef1f32275179",
+  "answers": [
+    {
+      "elm": "crossword_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "crossword_word_1",
+          "type": "simple",
+          "value": "BRIGHT"
+        },
+        {
+          "elm": "crossword_word_2",
+          "type": "simple",
+          "value": "WET"
+        },
+        {
+          "elm": "crossword_word_3",
+          "type": "simple",
+          "value": "WINDY"
+        },
+        {
+          "elm": "crossword_word_4",
+          "type": "simple",
+          "value": "FOGGY"
+        },
+        {
+          "elm": "crossword_word_5",
+          "type": "simple",
+          "value": "CHILLY"
+        },
+        {
+          "elm": "crossword_word_6",
+          "type": "simple",
+          "value": "FREEZING"
+        },
+        {
+          "elm": "crossword_word_7",
+          "type": "simple",
+          "value": "ICY"
+        },
+        {
+          "elm": "crossword_word_8",
+          "type": "simple",
+          "value": "MILD"
+        }
+      ]
+    }
+  ]
+}

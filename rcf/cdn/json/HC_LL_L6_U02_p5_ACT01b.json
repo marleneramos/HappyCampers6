@@ -1,0 +1,21 @@
+{
+  "id": "8b5584bff3bb4099940e58acd3e47a35",
+  "answers": [
+    {
+      "elm": "wordsearch_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "MOVIESTUDIO",
+        "DIRECTOR",
+        "CARTOON",
+        "PRODUCER",
+        "CAMERAMAN",
+        "MOVIESTAR",
+        "SCRIPT",
+        "SCENE"
+      ]
+    }
+  ]
+}

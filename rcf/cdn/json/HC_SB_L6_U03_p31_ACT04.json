@@ -1,0 +1,47 @@
+{
+  "id": "532c7ac804994f51b799bef4a96f1199",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "tights"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "dress"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "hoodie"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "leggings"
+    },
+    {
+      "elm": "typein_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "vest"
+    },
+    {
+      "elm": "typein_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cardigan"
+    }
+  ]
+}

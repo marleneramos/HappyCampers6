@@ -1,0 +1,21 @@
+{
+  "id": "1fd6b5d5dcb2490e8e0cd29020247316",
+  "answers": [
+    {
+      "elm": "wordsearch_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "NEPTUNE",
+        "MERCURY",
+        "UNIVERSE",
+        "SATURN",
+        "JUPITER",
+        "SOLARSYSTEM",
+        "EARTH",
+        "PLANET"
+      ]
+    }
+  ]
+}

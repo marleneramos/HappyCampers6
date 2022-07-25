@@ -1,0 +1,26 @@
+{
+  "id": "baefbd8b9b20417e996bda300ac209ee",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Yes, she is"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Yes, it is"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "No, he isn't"
+    }
+  ]
+}

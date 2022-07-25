@@ -1,0 +1,61 @@
+{
+  "id": "46c4bd0f6bb84112be5d23bce2bc7adc",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "laptop"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "smartphone"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "digital camera"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "smartwatch"
+    },
+    {
+      "elm": "typein_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "tablet"
+    },
+    {
+      "elm": "typein_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "gaming system"
+    },
+    {
+      "elm": "typein_7",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "wireless"
+    },
+    {
+      "elm": "typein_8",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "MP3 player"
+    }
+  ]
+}

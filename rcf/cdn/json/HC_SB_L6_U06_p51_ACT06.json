@@ -1,0 +1,19 @@
+{
+  "id": "cb4705fce6f4430dab233537efd84cee",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "the worst"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "the best"
+    }
+  ]
+}

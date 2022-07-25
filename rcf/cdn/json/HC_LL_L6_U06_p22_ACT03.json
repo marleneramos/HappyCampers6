@@ -1,0 +1,61 @@
+{
+  "id": "d10c266e90c1422d8e1af78adad03cfd",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Lisa",
+        "is",
+        "the",
+        "most",
+        "generous",
+        "girl"
+      ]
+    },
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "This",
+        "is",
+        "the",
+        "most",
+        "expensive",
+        "laptop"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "My",
+        "sandwich",
+        "is",
+        "the",
+        "most",
+        "delicious"
+      ]
+    },
+    {
+      "elm": "ordering_4",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "This",
+        "is",
+        "the",
+        "most",
+        "dangerous",
+        "snake"
+      ]
+    }
+  ]
+}

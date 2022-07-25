@@ -1,0 +1,38 @@
+{
+  "id": "c2485ec314b24d2b97d060e28a9609e7",
+  "answers": [
+    {
+      "elm": "crossword_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "crossword_word_2",
+          "type": "simple",
+          "value": "POLITE"
+        },
+        {
+          "elm": "crossword_word_3",
+          "type": "simple",
+          "value": "GRUMPY"
+        },
+        {
+          "elm": "crossword_word_4",
+          "type": "simple",
+          "value": "SERIOUS"
+        },
+        {
+          "elm": "crossword_word_5",
+          "type": "simple",
+          "value": "RUDE"
+        },
+        {
+          "elm": "crossword_word_6",
+          "type": "simple",
+          "value": "SILLY"
+        }
+      ]
+    }
+  ]
+}

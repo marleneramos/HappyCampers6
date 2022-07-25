@@ -1,0 +1,26 @@
+{
+  "id": "eec552f0b7d843eaa64c676bb996750b",
+  "answers": [
+    {
+      "elm": "droppable_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_3"
+    },
+    {
+      "elm": "droppable_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_4"
+    },
+    {
+      "elm": "droppable_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_5"
+    }
+  ]
+}

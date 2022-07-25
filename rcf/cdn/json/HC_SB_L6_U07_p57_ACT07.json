@@ -1,0 +1,46 @@
+{
+  "id": "cdf4166fef5e4ccdbf380dee6e9bb108",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Why",
+        "are",
+        "you",
+        "wearing",
+        "sunglasses"
+      ]
+    },
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Why",
+        "are",
+        "you",
+        "wearing",
+        "a",
+        "raincoat"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "Why",
+        "are",
+        "you",
+        "wearing",
+        "a",
+        "hoodie"
+      ]
+    }
+  ]
+}

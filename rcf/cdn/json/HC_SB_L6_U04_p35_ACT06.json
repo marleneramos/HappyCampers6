@@ -1,0 +1,19 @@
+{
+  "id": "b601bed1af4947e7b710f714f9a57461",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Was he brave"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Were they scared"
+    }
+  ]
+}

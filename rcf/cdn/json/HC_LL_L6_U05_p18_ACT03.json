@@ -1,0 +1,26 @@
+{
+  "id": "90b401ddbd7c425f963adcdb78007252",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Earth is the greenest planet"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Jupiter is the largest planet"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Neptune is the coldest planet"
+    }
+  ]
+}
